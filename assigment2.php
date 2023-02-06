@@ -1,7 +1,7 @@
 <?php
 
 
-$tuition_fee = 18500;    
+$tuition_fee = 15000;    
 
 $twenty_five_percent = $tuition_fee * 0.25;  
 $twenty_percent = $tuition_fee * 0.2;      
